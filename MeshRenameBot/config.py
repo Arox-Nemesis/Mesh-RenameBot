@@ -12,7 +12,7 @@ except ImportError:
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 50]
         SLEEP_SECS = [int, 0]
-        IS_MONGO = [bool, False]
+        IS_MONGO = [bool, True]
 
         # Access Restriction
         IS_PRIVATE = [bool, False]
