@@ -7,7 +7,7 @@ except ImportError:
         DATABASE_URL = [str, "mongodb+srv://saitama:Arox321@cluster0.6pwnrr4.mongodb.net/?retryWrites=true&w=majority"]
         API_HASH = [str, "764cb1c8d044fd73dfd61e363594d0ed"]
         API_ID = [int, 29357686]
-        BOT_TOKEN = [str, "bot:5814892561:AAG4S2FeGcc9RlAO6fuR1_DPAVYrVEIDa8c"]
+        BOT_TOKEN = [str, "bot:6091779768:AAHP8D_xA-WbCygiBDyyjkTqRvAVZ9JpEPM"]
         COMPLETED_STR = [str, "▰"]
         REMAINING_STR = [str, "▱"]
         MAX_QUEUE_SIZE = [int, 50]
